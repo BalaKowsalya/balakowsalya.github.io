@@ -2,9 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/bg1.jpeg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I’m an apsiring data scientist, experienced with Python. Machine Learning Enthusiast. Passionate Computer Science Engineer. Technical Writer. Blogger. A Lifelong Learner. ❤ I wish to watch you learn things better!
